@@ -7,7 +7,7 @@
 - <img src="https://user-images.githubusercontent.com/57751792/110103018-51147500-7e0a-11eb-8e31-ebd7d9e9178d.png" width="300px" />
 
 - 🌱 Current courses at uni this semester: Java OOP, C Programming and Computer Architecture, Property Investment and a Science Scholars Research paper. 
-- 💬 Check out my Leetcode Data Structures and Algorithms Walkthroughs for help on solving DSA problems. [DSA GUIDES](https://github.com/IshGill/MYEQUITIES).
+- 💬 Check out my Leetcode Data Structures and Algorithms Walkthroughs for help on solving DSA problems. [DSA GUIDES](https://github.com/IshGill/DSA-and-Leetcode-Walkthroughs).
 - 📫 How to reach me: Feel free to email me at Ish-gill@hotmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/ishgill/).
 
 - ⚡ Fun fact: I love martial arts and am an active boxer and muay thai practioner! 
