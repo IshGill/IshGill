@@ -10,7 +10,7 @@
 - 💬 Check out my Leetcode Data Structures and Algorithms Walkthroughs for help on solving DSA problems. [DSA GUIDES](https://github.com/IshGill/DSA-and-Leetcode-Walkthroughs).
 - 📫 How to reach me: Feel free to email me at Ish-gill@hotmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/ishgill/).
 
-- ⚡ Fun fact: I love martial arts and am an active boxer and muay thai practioner! 
+- ⚡ Fun fact: I love martial arts and am active in boxing and muay thai! 
 <img src="https://i.imgur.com/f8ug4xe.gif" width = "335px">
 
 
