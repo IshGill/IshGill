@@ -13,5 +13,4 @@
 - ⚡ Fun fact: I love martial arts and am active in boxing and muay thai! 
 <img src="https://i.imgur.com/f8ug4xe.gif" width = "335px">
 
-
-![Ish's github stats](https://github-readme-stats.vercel.app/api?username=IshGill&show_icons=true&theme=cobalt)
+![Ish's github stats](https://github-readme-stats.vercel.app/api?username=IshGill&theme=cobalt&show_icons=true&count_private=true)
