@@ -6,6 +6,5 @@
 - <img src="https://user-images.githubusercontent.com/57751792/110103018-51147500-7e0a-11eb-8e31-ebd7d9e9178d.png" width="300px" />
  
 - 💬 Check out my Leetcode Data Structures and Algorithms Walkthroughs for help on solving DSA problems. [DSA GUIDES](https://github.com/IshGill/DSA-and-Leetcode-Walkthroughs).
-<img src="https://i.imgur.com/f8ug4xe.gif" width = "335px">
 
 ![Ish's github stats](https://github-readme-stats.vercel.app/api?username=IshGill&theme=cobalt&show_icons=true&count_private=true)
