@@ -1,6 +1,6 @@
 <h1 align="center">Welcome<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 <h3 align="center">My Name is Ish Gill</h3>
-<h3 align="center">I'm a Passionate Software Engineer and Computer Science Student at The University of Auckland</h3>
+<h3 align="center">I'm a Passionate Software Engineer currently working at ASB Bank NZ</h3>
 
 - 🔭 I'm currently working on a stock and cryptocurrency investment portfolio project. Check it out here: [MYEQUITIES.](https://github.com/IshGill/MYEQUITIES)
  
